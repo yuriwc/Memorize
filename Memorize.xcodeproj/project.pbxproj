@@ -15,6 +15,7 @@
 		4BAE198727C91DEF00BC6CAD /* MemoryGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BAE198627C91DEF00BC6CAD /* MemoryGame.swift */; };
 		4BAE198927C926D300BC6CAD /* EmojiMemoryGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BAE198827C926D300BC6CAD /* EmojiMemoryGame.swift */; };
 		4BF5F84C27F512B600E64EDC /* AspectVGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF5F84B27F512B600E64EDC /* AspectVGrid.swift */; };
+		4BF5F84E27F52D7700E64EDC /* Pie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF5F84D27F52D7700E64EDC /* Pie.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		4BAE198627C91DEF00BC6CAD /* MemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryGame.swift; sourceTree = "<group>"; };
 		4BAE198827C926D300BC6CAD /* EmojiMemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiMemoryGame.swift; sourceTree = "<group>"; };
 		4BF5F84B27F512B600E64EDC /* AspectVGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AspectVGrid.swift; sourceTree = "<group>"; };
+		4BF5F84D27F52D7700E64EDC /* Pie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pie.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,7 +45,6 @@
 		4B9321B327B1F729009056D2 = {
 			isa = PBXGroup;
 			children = (
-				4BF5F84B27F512B600E64EDC /* AspectVGrid.swift */,
 				4B9321BE27B1F729009056D2 /* Memorize */,
 				4B9321BD27B1F729009056D2 /* Products */,
 			);
@@ -60,6 +61,8 @@
 		4B9321BE27B1F729009056D2 /* Memorize */ = {
 			isa = PBXGroup;
 			children = (
+				4BF5F84B27F512B600E64EDC /* AspectVGrid.swift */,
+				4BF5F84D27F52D7700E64EDC /* Pie.swift */,
 				4BAE198627C91DEF00BC6CAD /* MemoryGame.swift */,
 				4BAE198827C926D300BC6CAD /* EmojiMemoryGame.swift */,
 				4B9321BF27B1F72A009056D2 /* MemorizeApp.swift */,
@@ -153,6 +156,7 @@
 				4B8AA76D27B575A2007B8F49 /* File.swift in Sources */,
 				4BF5F84C27F512B600E64EDC /* AspectVGrid.swift in Sources */,
 				4BAE198727C91DEF00BC6CAD /* MemoryGame.swift in Sources */,
+				4BF5F84E27F52D7700E64EDC /* Pie.swift in Sources */,
 				4B9321C027B1F72A009056D2 /* MemorizeApp.swift in Sources */,
 				4BAE198927C926D300BC6CAD /* EmojiMemoryGame.swift in Sources */,
 			);
